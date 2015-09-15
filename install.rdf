@@ -29,7 +29,7 @@
 			<Description>
 				<em:locale>en-US</em:locale>
 				<em:name>Paste &amp; Go with New Tab</em:name>
-				<em:description>Adds item to the right click menu when right click in tab strip area called "Paste & Go with New Tab". </em:description>
+				<em:description>Adds item to the right click menu when right click in tab strip area called "Paste & Go with New Tab".</em:description>
 				<em:creator>Noitidart</em:creator>
 			</Description>
 		</em:localized>
